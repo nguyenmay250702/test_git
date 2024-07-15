@@ -1,0 +1,9 @@
+Hệ thống máy chủ phân tán trên nhiều Datacenter, máy chủ sử dụng công nghệ ổ cứng cam kết Full 100% SSD Enterprise (no cache)
+chạy RAID 10 với cấu hình tùy chọn đảm bảo tăng tốc độ truy xuất, an toàn dữ liệu và tiết kiệm chi phí nhất.
+
+
+OAuth2 là tiêu chuẩn cho phép website hoặc một ứng dụng có thể truy cập vào tài nguyên lưu trữ bởi các ứng dụng web khác thay cho người dùng.
+
+Phiên bản kế nhiệm của OAuth này cho phép người dùng chia sẻ các ứng dụng tài nguyên với nhau một cách tự động mà không cần tới username và password.
+ Nhờ đó, người dùng có thể bảo mật được
+ thông tin tài khoản của mình và không cần sử dụng quá nhiều tài khoản trong quá trình làm việc.
