@@ -5,9 +5,16 @@ main_l2 tt
 hi hi tesst
 dhfsad jfdoijoj
 jkdsfsjf
+main_l2 dksfsk
+hi hi
+main main
+main 1 kkddk kdddk
 
 OAuth2 là tiêu chuẩn cho phép website hoặc một ứng dụng có thể truy cập vào tài nguyên lưu trữ bởi các ứng dụng web khác thay cho người dùng.
-
+dsfdsf
+dsfsfsfs
+dsfsfsf
+hhhhh
 Phiên bản kế nhiệm của OAuth này cho phép người dùng chia sẻ các ứng dụng tài nguyên với nhau một cách tự động mà không cần tới username và password.
  Nhờ đó, người dùng có thể bảo mật được
  thông tin tài khoản của mình và không cần sử dụng quá nhiều tài khoản trong quá trình làm việc.
